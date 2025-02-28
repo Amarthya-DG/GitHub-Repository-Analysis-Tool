@@ -3,7 +3,7 @@
 An AI-powered tool for analyzing GitHub repositories using multiple LLM models and intelligent search capabilities.
 
 ## Features
-- Multi-model LLM support (GPT-3.5, GPT-4, Claude-2, Gemini-pro)
+- Multi-model LLM support (GPT-4o, Claude-3.5, Gemini-2 pro)
 - Repository content analysis
 - Web search integration
 - Wikipedia integration
