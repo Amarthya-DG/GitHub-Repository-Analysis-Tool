@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+PyGithub
+langchain
+litellm
+faiss-cpu
+sentence-transformers
+anthropic
+google-generativeai
+openai
+wikipedia
+duckduckgo-search
